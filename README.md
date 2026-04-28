@@ -29,7 +29,6 @@ This project performs a complete statistical distribution analysis on sales data
 ```
 statistical-analysis-project/
 │
-├── statistical_analysis.ipynb   ← Jupyter Notebook (recommended — charts visible on GitHub)
 ├── statistical_analysis.py      ← Plain Python script version
 ├── statistical_plots.png        ← All exported charts in one image
 ├── interpretation.txt           ← Written analysis paragraph
